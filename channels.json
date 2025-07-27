@@ -1,1 +1,75 @@
+[
+  {
+    "name": "Mahar",
+    "url": "http://maharlive.b-cdn.net/stream.m3u8"
+  },
+  {
+    "name": "5 Plus",
+    "url": "http://yangon1.akamaized.net/live/19daddcf-0f46-4a14-988e-14bc15f03298/prod/playlist.m3u8"
+  },
+  {
+    "name": "Fortune TV",
+    "url": "http://yangon1.akamaized.net/live/4ac29732-73a8-45ca-b528-723ac49e5ddc/prod/stream_1.m3u8"
+  },
+  {
+    "name": "MNTV",
+    "url": "http://edge-stream-07.otv.co.th./livestream/MNTV.stream/chunklist_w195218413.m3u8"
+  },
+  {
+    "name": "MRTV",
+    "url": "http://edge-stream-07.otv.co.th./livestream/MRTV.stream/chunklist_w1571137266.m3u8"
+  },
+  {
+    "name": "MRTV Entertainment",
+    "url": "http://edge-stream-07.otv.co.th./livestream/MRTV-Entertainment.stream/chunklist_w1352893599.m3u8"
+  },
+  {
+    "name": "MITV",
+    "url": "http://edge-stream-07.otv.co.th./livestream/MITV.stream/chunklist_w1272329220.m3u8"
+  },
+  {
+    "name": "MWD",
+    "url": "http://203.81.84.130/hls/mwd_variety/index.m3u8"
+  },
+  {
+    "name": "MWD variety",
+    "url": "http://203.81.84.130/hls/mwd/index.m3u8"
+  },
+  {
+    "name": "Readers Channel",
+    "url": "http://edge-stream-07.otv.co.th/livestream/Reader-Channel.stream/chunklist_w95361250.m3u8"
+  },
+  {
+    "name": "Hlut Taw",
+    "url": "http://edge-stream-07.otv.co.th./livestream/Hluttaw.stream/playlist.m3u8"
+  },
+  {
+    "name": "Thai PBS",
+    "url": "http://thaipbs-live.cdn.byteark.com/live/playlist_480p/index.m3u8"
+  },
+  {
+    "name": "Work Point TV",
+    "url": "http://122.155.205.9/live/workpoint.stream/chunklist_w87001385.m3u8"
+  },
+  {
+    "name": "One",
+    "url": "http://one31-0ougnj.cdn.byteark.com/live/playlist.m3u8"
+  },
+  {
+    "name": "MCOT HD",
+    "url": "http://mcotdigital-pnnouc.cdn.byteark.com/mcothd1080p_edge/smil:mcothd1080p.smil/playlist.m3u8"
+  },
+  {
+    "name": "MRTV4",
+    "url": "http://104275ooyala-lh.akamaihd.net/i/forevergroup_02@449366/master.m3u8"
+  },
+  {
+    "name": "Channel 7",
+    "url": "http://104275ooyala-lh.akamaihd.net/i/forevergroup_03@449367/master.m3u8"
+  },
+  {
+    "name": "Mahar Bawdi",
+    "url": "http://104275ooyala-lh.akamaihd.net/i/forevergroup_01@449365/master.m3u8"
+  }
+]
 
